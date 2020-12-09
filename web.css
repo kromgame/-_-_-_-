@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Jomhuria&family=Lemonada:wght@700&family=Tajawal:wght@300;700&display=swap');
+*{
+    padding: 2px;
+    margin: 3px;
+    box-sizing: border-box;
+    font-family: 'Tajawal', sans-serif;
+
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+body{
+    background: linear-gradient(to right, #1e3c72, #2a5298); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+h1{
+    height: 60px;
+    width: 100%;
+    background-color:rgba(96, 212, 28, 0.904) ;
+}
+h2{
+    height: 20;
+    width: 100%;
+    color: rgb(134, 133, 57);width: 520px;
+}
+h4{
+    color: rgba(255, 255, 255, 0.76);
+}
